@@ -1,7 +1,5 @@
-<h2 align="center">SathyaT here 👋🔥</h2>
-
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250.png?text=Your+Banner+Here" alt="Banner"/>
+  <img src="./youtube banner by belkacem designer - Made with PosterMyWall.jpg" alt="Banner"/>
 </p>
 
 ---
