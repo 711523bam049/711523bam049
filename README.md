@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/711523bam049/711523bam049/raw/main/youtube%20banner%20by%20belkacem%20designer%20-%20Made%20with%20PosterMyWall.jpg" 
+  <img src="https://via.placeholder.com/1200x400/FF6F00/FFFFFF?text=Sathya+%7C+AI+%26+ML" 
        alt="Sathya | AI & ML" 
        style="border-radius: 12px;" />
 </p>
