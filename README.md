@@ -1,8 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400/FF6F00/FFFFFF?text=Sathya+%7C+AI+%26+ML" 
-       alt="Sathya | AI & ML" 
-       style="border-radius: 12px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6F00&height=200&section=header&text=Sathya&fontSize=90&fontColor=FFFFFF" alt="Sathya | AI & ML" width="100%" />       style="border-radius: 12px;" />
 </p>
 
 <!-- Typing Intro -->
