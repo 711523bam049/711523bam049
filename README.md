@@ -95,24 +95,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
 </p>
 
----
-
-## ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourlink">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=711523bam049&label=Profile%20Views&color=FF5733&style=for-the-badge" alt="Profile views" />
-</p>
-
----
-
-<p align="center">
-  ⭐&nbsp;Thanks for visiting! Feel free to explore my repositories and connect with me.
-</p>
