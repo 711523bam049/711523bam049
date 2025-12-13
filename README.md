@@ -1,97 +1,120 @@
+<!-- Banner -->
 <p align="center">
-  <img src="./youtube banner by belkacem designer - Made with PosterMyWall.jpg" alt="Banner"/>
+  <img src="https://github.com/711523bam049/711523bam049/raw/main/youtube%20banner%20by%20belkacem%20designer%20-%20Made%20with%20PosterMyWall.jpg" 
+       alt="Sathya | AI & ML" 
+       style="border-radius: 12px;" />
+</p>
+
+<!-- Typing Intro -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F97316&size=30&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sathya+👋;AI+%26+ML+Enthusiast;Machine+Learning+Intern;Automotive+AI+Explorer" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 👋 **I’m Sathya**
+## 👋 Hey, I'm Sathya
 
-### **AI & ML Enthusiast | Machine Learning Intern | Automotive AI Explorer**
+### 🧠 AI & ML Enthusiast · 🧪 Machine Learning Intern · 🚗 Automotive AI Explorer  
 
 ---
 
-## 🧑‍💻 **About Me**
+## 🧑‍💻 About Me
+
 - 🎓 Computer Science student specializing in **Artificial Intelligence & Machine Learning**.  
 - 🤖 Passionate about building intelligent systems and full-stack applications.  
 - 🚗 Exploring **AI-driven solutions for the automotive industry**.  
-- 📘 Currently pursuing **B.E. CSE (AI & ML)** at *Kalaignar Karunanidhi Institute of Technology*.  
-- 🔬 Interested in machine learning, system development, and integrating AI with automobile engineering to enable smarter mobility innovations.  
+- 📘 Currently pursuing **B.E. CSE (AI & ML)** at **Kalaignar Karunanidhi Institute of Technology**.  
+- 🔬 Interested in machine learning, system development, and integrating AI with automobile engineering to enable smarter mobility innovations.
+- 💡 **Current Focus**: IoT-based fire detection systems, vehicle diagnostics AI, and underwater threat detection.
 
 ---
 
-## 🌐 **Find Me On**
-<p align="center">
+## 🌐 Connect With Me
 
+<p align="center">
   <a href="https://www.linkedin.com/in/sathya-t-1142672a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://leetcode.com/u/711523bam049/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-
   <a href="https://www.codechef.com/users/711523BAM049">
-    <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-
   <a href="https://codeforces.com/profile/Sathya.T">
-    <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-
 </p>
 
 ---
 
-## 🛠️ **Languages & Tools I've Worked With**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,c,java,html,css,js,mysql" />
-</p>
+## 🛠️ Languages & Tools
 
----
-
-## 📊 **GitHub Stats**
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=711523bam049&show_icons=true&theme=radical" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=711523bam049&layout=compact&theme=radical" />
-
-</div>
-
----
-
-## ⚙️ **Tech Stack**
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,c,java,html,css,js,mysql" />
 </p>
 
 ---
 
-## 🧠 **Random Dev Quote**
+## ⚙️ Tech Stack
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-## ☕ **Support Me**
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=711523bam049&show_icons=true&theme=radical" alt="Sathya's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=711523bam049&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=711523bam049&theme=github-compact&bg_color=0D1117&color=00E5FF&line=00FFC6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🧠 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
+</p>
+
+---
+
+## ☕ Support Me
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/yourlink">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </p>
 
 ---
 
-## 🔥 **Contribution Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SathyaT&theme=github-compact&bg_color=0D1117&color=00E5FF&line=00FFC6&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=711523bam049&label=Profile%20Views&color=FF5733&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
-### ⭐ *Thanks for visiting! Feel free to explore my repositories.*
+<p align="center">
+  ⭐&nbsp;Thanks for visiting! Feel free to explore my repositories and connect with me.
+</p>
